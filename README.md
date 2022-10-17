@@ -102,4 +102,4 @@ volumes:
   wp_data:
 ```
 📃
-O arquivo final se encontra neste link: 
+O arquivo final se encontra neste link: https://github.com/MariaEduardaMaldonado/Atividade-Docker/blob/main/docker-compose.yml
